@@ -38,6 +38,7 @@
   <div class="container">
     <h1>Hello, world!</h1>
     <p>Ini adalah Home</p>
+    <p>Salah! Ini adalah about!</p>
   </div>
 
 
